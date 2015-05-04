@@ -1,0 +1,38 @@
+# Player info
+Player name: 60.[ST]Bandi
+Player level: 73
+
+# My cards
+Rose Nymph, 15, 4, 588, 1100, forest, Prayer:200, Resurrection:60, Forest Force:175, Group Weaken:60
+Thunder Dragon
+Leprechaun
+Celestial Touchstone
+Astral Sentinel
+Fire Kirin, 15, 4, 676, 1612, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Snipe:150
+ThornyLizard, 15, 3, 615, 1430, forest, Snipe:150, Dual Snipe:150, Retaliation:120, Resistance
+Aranyani, 15, 4, 708, 1746, forest, Magic Shield:80, Healing:250, QS_Teleportation
+Fire Kirin, 15, 4, 676, 1612, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Parry:120
+Wood Elf Archer
+
+
+# My runes
+Raised Flag
+Thunder Shield
+Nimble Soul
+Lightning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

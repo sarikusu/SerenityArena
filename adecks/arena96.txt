@@ -1,0 +1,29 @@
+# Player info
+Player name: 96.dark titan
+Player level: 72
+
+# My cards
+Steel Executioner
+Leprechaun
+Exiled Angel
+Exiled Angel
+Moss Dragon
+Electric Eel
+Electric Eel
+Necroflayer, 19, 4, 733, 1798, swamp, Bloodsucker:80, Reincarnation:2, Parry:160, QS_Exile
+Astral Sentinel
+Thunder Dragon
+
+
+# My runes
+Thunder Shield
+Lightning
+Raised Flag
+Nimble Soul
+
+
+
+
+
+
+

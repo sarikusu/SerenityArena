@@ -1,0 +1,33 @@
+# Player info
+Player name: 91.Galaxies_
+Player level: 75
+
+# My cards
+Ice Dragon
+Ice Dragon
+Taiga General, 18, 4, 605, 1750, tundra, Magic Shield:80, Exile, Regeneration:175, Trap:2
+Crescent Rider
+Whitewing Pope
+Moss Dragon
+Thunder Dragon
+Celestial Touchstone
+Astral Sentinel
+
+
+
+# My runes
+Explosion
+Thunder Shield
+Lightning
+Raised Flag
+
+
+
+
+
+
+
+
+
+
+

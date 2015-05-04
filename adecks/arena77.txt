@@ -1,0 +1,39 @@
+# Player info
+Player name: 77.Susanow
+Player level: 65
+
+# My cards
+Moss Dragon
+Astral Sentinel
+Celestial Touchstone
+Taiga General
+Taiga General
+Omniscient Dragon
+Crescent Rider
+Exiled Angel, 19, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+
+
+
+
+# My runes
+Lightning
+Thunder Shield
+Spring Breeze
+Raised Flag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

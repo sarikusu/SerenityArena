@@ -1,0 +1,25 @@
+# Player info
+Player name: 13.darksider
+Player level: 67
+
+# My cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Chain Lightning:25
+Ice Dragon
+Cerato
+Dharmanian
+Winged Tiger
+Leprechaun
+Behemoth
+Armored Sumatran
+Light Paladin
+
+
+# My runes
+Transparency
+Tornado
+Thunder Shield
+Raised Flag
+
+
+
+

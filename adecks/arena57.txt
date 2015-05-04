@@ -1,0 +1,36 @@
+# Player info
+Player name: 57.[ff]Eyerie (2)
+Player level: 71
+
+# My cards
+Crystal Enchantress, 14, 3, 450, 990, tundra, QS_Blizzard:180, Nova Frost:120, Resurrection:55, Nova Frost:20
+Leprechaun
+Astral Sentinel
+Taiga General, 16, 4, 629, 1793, tundra, Magic Shield:80, Exile, Regeneration:175, Chain Lightning:25
+Omniscient Dragon
+Whitewing Pope
+Arctic Lich
+Water Elemental
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+
+# My runes
+Raised Flag
+Tornado
+Spring Breeze
+Thunder Shield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

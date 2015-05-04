@@ -1,0 +1,33 @@
+# Player info
+Player name: 83.[LG] RalphAc
+Player level: 70
+
+# My cards
+Dire Snapping Turtle, 16, 4, 703, 1820, mtn, Clean Sweep, Seal, Bloodsucker:80, QS_Toxic Clouds:100
+Aranyani
+Aranyani
+Aranyani
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, QS_Exile
+Fire Demon, 16, 6, 702, 1746, mtn, Concentration:120, Laceration, Immunity, D_Group Weaken:20
+Crimson phoenix
+Thunder Dragon
+
+# My runes
+Blood Stone
+Inferno
+Thunder Shield
+Lightning
+
+
+
+
+
+
+
+
+
+
+
+
+
+

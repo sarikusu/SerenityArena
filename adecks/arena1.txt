@@ -1,0 +1,19 @@
+# Player info
+Player name: 01.Peterjay
+Player level: 49
+
+# My cards
+Statue of Light
+Aranyani
+Fire Kirin
+Leprechaun
+Astral Sentinel
+Taiga General
+Taiga General
+Taiga Cleric
+
+# My runes
+Spring Breeze
+Tornado
+Clear Spring
+Eruption

@@ -1,0 +1,22 @@
+# Player info
+Player name: 12.[FA]Viper696
+Player level: 60
+
+# My cards
+Ice Knight
+Arctic Lich
+Astral Sentinel
+Dharmanian
+Taiga Cleric, 15, 6, 450, 1060, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Blizzard:120
+Crystal Emperor
+Dharmanian
+Ice Knight
+
+
+# My runes
+Quicksand
+Permafrost
+Clear Spring
+Arctic Freeze
+
+

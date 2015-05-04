@@ -1,0 +1,37 @@
+# Player info
+Player name: 51.RobynClinton
+Player level: 62
+
+# My cards
+Taiga General
+Leprechaun
+Moss Dragon
+Taiga General
+Fire Kirin
+Orc Teacher
+Arctic Lich
+Fire Kirin, 15, 4, 676, 1612, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Concentration:40
+
+
+
+# My runes
+Thunder Shield
+Spring Breeze
+Permafrost
+Clear Spring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+# Player info
+Player name: 87.crazyvictorious
+Player level: 69
+
+# My cards
+Arctic Lich, 19, 4, 795, 1895, tundra, Mana Corruption:160, Sacred Flame, Resistance, Concentration:100
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Chain Lightning:25
+Exiled Angel
+Exiled Angel
+Exiled Angel
+Tundra Rider
+Whitewing Pope
+Ice Dragon
+
+# My runes
+Permafrost
+Raised Flag
+Lightning
+Thunder Shield
+
+
+
+
+
+
+
+
+
+
+
+

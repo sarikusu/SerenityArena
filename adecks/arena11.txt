@@ -1,0 +1,19 @@
+# Player info
+Player name: 11.gradius
+Player level: 55
+
+# My cards
+Astral Sentinel
+Dharmanian
+Taiga General
+Leprechaun
+Dharmanian
+Leprechaun
+Taiga General
+
+
+# My runes
+Permafrost
+Lightning
+Thunder Shield
+Arctic Freeze

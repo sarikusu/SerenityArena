@@ -1,0 +1,38 @@
+# Player info
+Player name: 65.[GoW]Shadowj
+Player level: 98
+
+# My cards
+Whitewing Pope, 20, 4, 714, 1830, tundra, Blizzard:160, Reincarnation:1, ice Shield:150, Resistance
+Behemoth, 17, 6, 640, 1990, swamp, Electric Shock:175, Retaliation:320, Immunity
+Behemoth
+Moss Dragon, 18, 6, 805, 1875, forest, Concentration:120, Parry:160, Immunity, Trap:2
+Tundra Rider
+Ice Dragon, 18, 6, 770, 1875, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
+Tundra Rider
+Necroflayer, 19, 4, 760, 1830, swamp, Bloodsucker:80, Reincarnation:2, Parry:160, Trap:2
+Typhon, 21, 1, 800, 1800, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110, Resistance
+
+
+# My runes
+Stone Forest
+Red Valley
+Permafrost
+Dirt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+# Player info
+Player name: 85.FSL CpCarrot
+Player level: 74
+
+# My cards
+Whitewing Pope
+Arctic Lich
+Moss Dragon, 16, 6, 685, 1743, forest, Concentration:120, Parry:160, Immunity, QS_Electric Shock:50
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Parry:80
+Demonic Imp, 16, 4, 640, 1075, mtn, Resistance, Concentration:100, Resurrection:60, QS_Exile
+Celestial Touchstone
+Frostfire Maiden
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Astral Sentinel
+
+
+
+# My runes
+Permafrost
+Raised Flag
+Lightning
+Burning Soul
+
+
+
+
+
+
+
+
+
+
+
+
+

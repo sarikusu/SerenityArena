@@ -1,0 +1,39 @@
+# Player info
+Player name: 73.HB EyesofAsh
+Player level: 87
+
+# My cards
+Whitewing Pope
+Astral Sentinel, 19, 4, 678, 1660, forest, Advanced Strike:2, Impede:2, Immunity, Nova Frost:60
+Leprechaun, 19, 4, 540, 1100, forest, Regeneration:125, Dodge:60, Reanimation, Resistance
+Crescent Rider, 18, 4, 699, 1680, forest, Sacred Flame, Snipe:270, Dodge:60, Concentration:40
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Exiled Angel, 18, 4, 670, 1710, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Nova Frost:80
+Tundra Rider
+Jack Frost, 20, 4, 730, 1746, tundra, Trap:3, Clean Sweep, QS_Destroy, Resistance
+Aranyani, 16, 4, 792, 1854, forest, Magic Shield:80, Healing:250, QS_Teleportation, Forest Force:125
+
+
+# My runes
+Lightning
+Permafrost
+Thunder Shield
+Clear Spring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

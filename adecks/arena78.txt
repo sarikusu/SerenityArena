@@ -1,0 +1,39 @@
+# Player info
+Player name: 78.Skullknuckle
+Player level: 74
+
+# My cards
+Celestial Touchstone
+Fire Kirin, 15, 4, 704, 1638, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Regeneration:125
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Electric Shock:75
+Tundra Rider
+Crystal Emperor
+Taiga General, 18, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Chain Lightning:50
+Astral Sentinel
+Orc Teacher
+
+
+
+
+# My runes
+Lightning
+Nimble Soul
+Avalanche
+Permafrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

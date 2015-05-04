@@ -1,0 +1,20 @@
+# Player info
+Player name: 27.Death1728
+Player level: 55
+
+# My cards
+Ice Dragon
+Behemoth
+Taiga General
+Leprechaun
+Taiga General
+Rose Knight
+Astral Sentinel
+Necroflayer
+
+# My runes
+Arctic Freeze
+Thunder Shield
+Nimble Soul
+Tsunami
+

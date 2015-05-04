@@ -1,0 +1,31 @@
+# Player info
+Player name: 93.youngkobe24
+Player level: 70
+
+# My cards
+Demonic Imp, 16, 4, 640, 1075, mtn, Resistance, Concentration:100, Resurrection:60, Reflection:150
+Thunder Dragon
+Thunder Dragon
+Aranyani
+Exiled Angel
+Jack Frost
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Taiga Cleric, 14, 6, 474, 1097, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, QS_Electric Shock:50
+
+
+
+# My runes
+Lightning
+Thunder Shield
+Ghost Step
+Blood Stone
+
+
+
+
+
+
+
+
+
+

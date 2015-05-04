@@ -1,0 +1,32 @@
+# Player info
+Player name: 90.[C4L]Chaos
+Player level: 74
+
+# My cards
+Ice Dragon, 18, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Electric Shock:125
+Taiga General
+Taiga General
+Taiga General, 18, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Blizzard:120
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Iceball:20
+Griffon Dancer
+Taiga General
+Astral Sentinel
+
+
+# My runes
+Permafrost
+Clear Spring
+Thunder Shield
+Arctic Freeze
+
+
+
+
+
+
+
+
+
+
+
+

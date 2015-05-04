@@ -1,0 +1,24 @@
+# Player info
+Player name: 14.JusticeFabian
+Player level: 67
+
+# My cards
+Astral Sentinel
+Fire Kirin, 16, 4, 704, 1638, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Retaliation:120
+Eagle Fighter, 14, 4, 610, 1170, forest, Snipe:150, Warpath:75, Dodge:45, QS_Electric Shock:125
+Celestial Touchstone
+Bronze Dragon, 15, 4, 500, 1500, forest, Thunderbolt:100, Resurrection:60, Dodge:60, Electric Shock:150
+Arctic Cephalid
+Armored Sumatran
+Rose Nymph, 15, 4, 588, 1100, forest, Prayer:200, Resurrection:60, Forest Force:175, Chain Lightning:75
+
+
+# My runes
+Revival
+Leaf
+Lightning
+Thunder Shield
+
+
+
+

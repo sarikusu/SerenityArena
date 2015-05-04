@@ -1,0 +1,20 @@
+# Player info
+Player name: 09.Corypeter
+Player level: 60
+
+# My cards
+Eagle Fighter, 15, 4, 660, 1210, forest, Snipe:150, Warpath:75, Dodge:45, Trap:2
+Fire Kirin
+Astral Sentinel
+Whitewing Pope
+Rose Nymph
+Orc Teacher
+Aranyani
+
+
+# My runes
+Raised Flag
+Lightning
+Thunder Shield
+Spring Breeze
+

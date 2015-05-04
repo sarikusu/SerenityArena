@@ -1,0 +1,22 @@
+# Player info
+Player name: 10.tiss
+Player level: 68
+
+# My cards
+Hecate
+Whitewing Pope
+Jack Frost
+Taiga Cleric, 15, 6, 546, 1208, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Resistance
+Moss Dragon
+Christmas Treant
+Taiga General, 16, 4, 653, 1836, tundra, Magic Shield:80, Exile, Regeneration:175, Chain Lightning:75
+Arctic Cephalid
+Light Paladin
+
+
+# My runes
+Lightning
+Thunder Shield
+Arctic Freeze
+Permafrost
+

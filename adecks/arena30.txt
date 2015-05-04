@@ -1,0 +1,22 @@
+# Player info
+Player name: 30.MrMilk
+Player level: 63
+
+# My cards
+Azula
+Necroflayer, 15, 4, 760, 1830, swamp, Bloodsucker:80, Reincarnation:2, Parry:160, Resistance
+Celestial Touchstone
+Dire Snapping Turtle
+Moss Dragon
+Crimson Phoenix
+Fire Kirin
+Astral Sentinel
+
+# My runes
+Eruption
+Ghost Step
+Thunder Shield
+Tornado
+
+
+

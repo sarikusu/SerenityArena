@@ -1,0 +1,22 @@
+# Player info
+Player name: 04.[UN]Whitt87
+Player level: 53
+
+# My cards
+Eagle Fighter, 15, 4, 660, 1210, forest, Snipe:150, Warpath:75, Dodge:45, Snipe:150
+Crystal Enchantress
+Wood Elf Archer
+Wood Elf Archer
+Eagle Fighter, 16, 4, 685, 1230, forest, Snipe:150, Warpath:75, Dodge:45, Resistance
+Taiga General
+Necroflayer
+Leprechaun
+Fire Kirin, 15, 4, 648, 1586, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Thunderbolt:50
+
+# My runes
+Lightning
+Spring Breeze
+Thunder Shield
+Tornado
+
+

@@ -1,0 +1,22 @@
+# Player info
+Player name: 05.[UN]Whitt87
+Player level: 53
+
+# My cards
+
+Behemoth
+Eagle Fighter, 16, 4, 685, 1230, forest, Snipe:150, Warpath:75, Dodge:45, Resistance
+Eagle Fighter, 14, 4, 560, 1130, forest, Snipe:150, Warpath:75, Dodge:45, Forest Force:100
+Necroflayer
+Leprechaun
+Wood Elf Archer
+Wood Elf Archer
+Fire Kirin, 15, 4, 648, 1586, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Thunderbolt:50
+
+# My runes
+Lightning
+Spring Breeze
+Thunder Shield
+Tornado
+
+

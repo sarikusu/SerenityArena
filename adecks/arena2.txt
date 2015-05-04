@@ -1,0 +1,20 @@
+# Player info
+Player name: 02.eronis
+Player level: 60
+
+# My cards
+Taiga General
+Fire Kirin, 15, 4, 648, 1586, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Iceball:40
+Leprechaun
+Moss Dragon
+Queen of the Dead
+Astral Sentinel
+Ice Dragon
+Fire Demon
+Arctic Cephalid
+
+# My runes
+Ghost Step
+Tornado
+Lightning
+Avalanche

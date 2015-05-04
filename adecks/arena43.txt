@@ -1,0 +1,30 @@
+# Player info
+Player name: 43.Almighty_Push
+Player level: 63
+
+# My cards
+Ice Dragon
+Arctic Lich
+Taiga General
+ThornyLizard, 14, 3, 569, 1350, forest, Snipe:150, Dual Snipe:150, Retaliation:120, Snipe:150
+God of War
+Winter Samurai
+Necroflayer
+Behemoth
+Serpent Shamanka
+
+# My runes
+Death Zone
+Red Valley
+Stone Forest
+Stonewall
+
+
+
+
+
+
+
+
+
+

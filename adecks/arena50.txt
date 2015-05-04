@@ -1,0 +1,36 @@
+# Player info
+Player name: 50.LemaoLimao
+Player level: 65
+
+# My cards
+Astral Sentinel, 19, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity, Nova Frost:20
+Celestial Touchstone
+Leprechaun
+Orc Teacher
+Fire Demon
+Fire Demon
+Fire Kirin, 16, 4, 704, 1638, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Blizzard:120
+Dire Snapping Turtle
+Dire Snapping Turtle
+
+
+# My runes
+Thunder Shield
+Burning Soul
+Lightning
+Blood Stone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

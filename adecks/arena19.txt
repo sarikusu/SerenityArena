@@ -1,0 +1,21 @@
+# Player info
+Player name: 19.[OS]Radient
+Player level: 64
+
+# My cards
+Rose Nymph, 16, 4, 636, 1140, forest, Prayer:200, Resurrection:60, Forest Force:175, Fire Wall:150
+Azula
+Fire Kirin
+Fire Kirin
+Ice Dragon
+Ice Dragon
+Astral Sentinel
+Whitewing Pope
+Ice Knight
+
+#runes
+Lightning
+Explosion
+Permafrost
+Raised Flag
+

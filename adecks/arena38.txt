@@ -1,0 +1,26 @@
+# Player info
+Player name: 38.Iterator
+Player level: 67
+
+# My cards
+Celestial Touchstone
+Whitewing Pope
+Arctic Lich
+Moss Dragon
+Fire Kirin, 10, 4, 620, 1560, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Reflection:120
+Eagle Fighter
+Thunder Dragon
+Jack Frost
+Taiga Cleric, 15, 6, 450, 1060, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Trap:2
+
+
+
+# My runes
+Lightning
+Raised Flag
+Arctic Freeze
+Permafrost
+
+
+
+

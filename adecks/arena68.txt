@@ -1,0 +1,37 @@
+# Player info
+Player name: 68.[LG] Tosh0
+Player level: 68
+
+# My cards
+Sea Piercer
+Tundra Rider
+Tundra Rider
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Ice Dragon, 16, 6, 686, 1764, tundra, dodge:45, clean sweep, immunity, iceball:120
+Whitewing Pope
+Exiled Angel
+Water Elemental
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, QS_Firestorm:50
+
+
+# My runes
+Spring Breeze
+Lightning
+Thunder Shield
+permafrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

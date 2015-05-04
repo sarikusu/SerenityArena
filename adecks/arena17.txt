@@ -1,0 +1,18 @@
+# Player info
+Player name: 17.Blizzard
+Player level: 52
+
+# My cards
+Taiga General
+Arctic Cephalid
+Astral Sentinel
+Taiga General
+Necroflayer
+Taiga General
+Taiga General
+
+#runes
+Permafrost
+Holy Well
+Clear Spring
+Arctic Freeze

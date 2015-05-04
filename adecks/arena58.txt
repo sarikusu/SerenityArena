@@ -1,0 +1,33 @@
+# Player info
+Player name: 58.HellsWarrior
+Player level: 70
+
+# My cards
+Whitewing Pope
+Griffon Dancer
+Taiga General
+Swamp Predator, 21, 4, 740, 1975, swamp, Rejuvenation:270, Mania:160, Evasion, Counterattack:300
+Orc Teacher
+Northern Gladiator
+
+# My runes
+Permafrost
+Stone Forest
+Red Valley
+Arctic Freeze
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

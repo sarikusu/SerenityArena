@@ -1,0 +1,27 @@
+# Player info
+Player name: 98.nflman21
+Player level: 72
+
+# My cards
+Astral Sentinel
+Moss Dragon
+Moss Dragon
+Moss Dragon
+Celestial Touchstone
+Jack Frost
+Taiga General, 18, 4, 653, 1836, tundra, Magic Shield:80, Exile, Regeneration:175, Arctic Guard:150
+Thunder Dragon
+Rose Knight
+
+
+# My runes
+Thunder Shield
+Raised Flag
+Lightning
+Permafrost
+
+
+
+
+
+

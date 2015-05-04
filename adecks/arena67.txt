@@ -1,0 +1,38 @@
+# Player info
+Player name: 67.[WoN] Medusa
+Player level: 72
+
+# My cards
+Moss Dragon, 18, 6, 805, 1875, forest, Concentration:120, Parry:160, Immunity, Trap:2
+Aranyani
+Fire Kirin, 15, 4, 676, 1612, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, QS_Electric Shock:125
+Ice Dragon
+Thunder Dragon
+Whitewing pope
+Celestial Touchstone
+Astral Sentinel
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+
+
+
+# My runes
+Arctic Freeze
+Lightning
+Thunder Shield
+permafrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

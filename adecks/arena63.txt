@@ -1,0 +1,38 @@
+# Player info
+Player name: 63.[MOD] Ubunt
+Player level: 78
+
+# My cards
+Ice Dragon, 16, 6, 658, 1727, tundra, Dodge:45, Clean Sweep, Immunity, Thunderbolt:50
+Crimson Phoenix
+Skeleton King
+Fire Demon, 17, 6, 830, 1890, mtn, concentration:120, laceration, immunity, bloodsucker:80
+Queen of the Dead, 16, 6, 694, 1720, mtn, Rejuvenation:240, Wicked Leech:21, Immunity, D_Firestorm:150
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Chain Lightning:25
+Dire Snapping Turtle, 18, 4, 755, 1900, mtn, Clean Sweep, Seal, Bloodsucker:80, Resistance
+Whitewing Pope
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+
+
+
+# My runes
+Burning Soul
+Blood Stone
+Ghost Step
+Permafrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

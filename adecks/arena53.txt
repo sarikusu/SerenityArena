@@ -1,0 +1,35 @@
+# Player info
+Player name: 53.Luffy
+Player level: 70
+
+# My cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, QS_Blizzard:40
+Fire Demon
+Moss Dragon
+Taiga General
+Arctic Lich
+Thunder Dragon
+Taiga Cleric, 14, 6, 498, 1134, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Chain Lightning:100
+Light Paladin
+Fire Demon
+
+# My runes
+Thunder Shield
+Burning Soul
+Lightning
+Blood Stone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

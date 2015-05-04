@@ -1,0 +1,29 @@
+# Player info
+Player name: 42.Technician
+Player level: 66
+
+# My cards
+Fire Kirin, 16, 4, 732, 1664, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Concentration:100
+Fire Demon, 15, 6, 702, 1746, mtn, Concentration:120, Laceration, Immunity, D_Toxic Clouds:60
+Arctic Cephalid, 17, 4, 768, 1530, tundra, Reflection:210, Dodge:60, Bloodthirsty:70, Healing:50 
+Necroflayer
+Moss Dragon, 16, 6, 685, 1743, forest, Concentration:120, Parry:160, Immunity, Iceball:40
+Behemoth, 15, 6, 580, 1852, swamp, Electric Shock:175, Retaliation:160, Immunity, Fire God:40
+Fire Imp
+Taiga General, 15, 4, 533, 1621, tundra, Magic Shield:80, Exile
+
+
+# My runes
+Thunder Shield
+Raised Flag
+Nimble Soul
+Tornado
+
+
+
+
+
+
+
+
+

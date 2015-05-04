@@ -1,0 +1,23 @@
+# Player info
+Player name: 23.[GoW]DavidMi
+Player level: 72
+
+# My cards
+Arbiter of War
+Dharmanian
+Draconian Shaman
+Whitewing Pope
+Tundra Rider
+Taiga General, 16, 4, 629, 1793, tundra, Magic Shield:80, Exile, Regeneration:175, Backstab:40
+Taiga Cleric, 16, 6, 546, 1208, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Trap:2
+Armored Turkey, 19, 4, 660, 1808, mtn, Evasion, Slayer:120, Exile, Iceball:40
+Fire Demon, 16, 6, 798, 1845, mtn, Concentration:120, Laceration, Immunity, Retaliation:140
+
+# My runes
+Permafrost
+Tornado
+Raised Flag
+Thunder Shield
+
+
+

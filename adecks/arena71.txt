@@ -1,0 +1,36 @@
+# Player info
+Player name: 71.[GoW] Emetz
+Player level: 94
+
+# My cards
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Ice Dragon
+Whitewing Pope, 20, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice SHield:150, Northern Force:125
+Ice Knight, 22, 4, 755, 1785, tundra, ice Shield:140, Damnation:160, Slayer:120, Resistance
+Ice Dragon, 17, 6, 714, 1801, tundra, Dodge:45, Clean Sweep, Immunity, Blizzard:120
+Necroflayer, 19, 4, 760, 1830, swamp, Bloodsucker:80, Reincarnation:2, Parry:160, Trap:2
+Astral Sentinel
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Trap:2
+
+# My runes
+Permafrost
+Clear Spring
+Arctic Freeze
+Mineral
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

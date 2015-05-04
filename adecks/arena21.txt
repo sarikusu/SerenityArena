@@ -1,0 +1,23 @@
+# Player info
+Player name: 21.[C4L] CK
+Player level: 67
+
+# My cards
+Taiga General
+Cerato, 16, 6, 570, 1316, swamp, Puncture:75, Craze:50, Ice Shield:120, QS_Exile
+Moss Dragon
+Crystal Emperor
+Taiga General
+Aranyani
+Astral Sentinel
+Leprechaun
+Celestial Touchstone
+
+
+# My runes
+Nimble Soul
+Thunder Shield
+Arctic Freeze
+Lightning
+
+

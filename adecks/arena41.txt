@@ -1,0 +1,31 @@
+# Player info
+Player name: 41.EragonCZ
+Player level: 62
+
+# My cards
+Empyrean Priestess
+Water Elemental, 14, 4, 517, 1346, forest, Iceball:80, Regeneration:150, Blizzard:120, Parry:140
+Ancient Oni, 12, 4, 731, 1630, swamp, Sacrifice:100, Smog:160, Rejuvenation:300, Arctic Pollution:75
+Taiga General
+Leprechaun
+Treant Healer
+Hecate
+Aranyani
+Moss Dragon
+
+
+
+# My runes
+Thunder Shield
+Raised Flag
+Nimble Soul
+Tornado
+
+
+
+
+
+
+
+
+

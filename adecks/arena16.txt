@@ -1,0 +1,23 @@
+# Player info
+Player name: 16.Draco
+Player level: 67
+
+# My cards
+Thunder Dragon
+Wild Horned Lion
+Taiga General, 17, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Retaliation:120
+Arctic Cephalid
+Treant Healer
+Celestial Touchstone
+Leprechaun
+Ice Dragon
+
+# My runes
+Lightning
+Raised Flag
+Permafrost
+Arctic Freeze
+
+
+
+

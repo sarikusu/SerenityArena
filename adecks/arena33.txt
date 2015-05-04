@@ -1,0 +1,21 @@
+# Player info
+Player name: 33.Elaine
+Player level: 67
+
+# My cards
+Taiga General
+Celestial Touchstone
+Dire Snapping Turtle
+Taiga General
+Arctic Lich
+Taiga Cleric
+Taiga General
+Flame Empress
+Crimson Phoenix
+
+# My runes
+Permafrost
+Clear Spring
+Leaf
+Arctic Freeze
+

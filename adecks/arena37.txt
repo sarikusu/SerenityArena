@@ -1,0 +1,24 @@
+# Player info
+Player name: 37.Acerox
+Player level: 71
+
+# My cards
+Whitewing Pope
+Swamp Predator, 21, 4, 740, 1975, swamp, Rejuvenation:270, Mania:160, Evasion, Rejuvenation:180
+Behemoth
+Queen of the Dead
+Azula
+Orc Teacher
+Venomripper
+God of Pain
+
+
+# My runes
+Red Valley
+Stone Forest
+Dirt
+Lore
+
+
+
+

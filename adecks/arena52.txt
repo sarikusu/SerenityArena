@@ -1,0 +1,39 @@
+# Player info
+Player name: 52.[C4L] Wheels
+Player level: 62
+
+# My cards
+Eagle Fighter
+Celestial Touchstone
+Astral Sentinel
+Rose Nymph, 17, 4, 660, 1160, forest, Prayer:200, Resurrection:60, Forest Force:175, Retaliation:140
+Fire Kirin
+Fire Kirin, 15, 4, 620, 1560, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Nova Frost:20
+Rose Nymph, 16, 4, 612, 1120, forest, Prayer:200, Resurrection:60, Forest Force:175, Electric Shock:150
+Water Elemental
+
+
+
+
+# My runes
+Raised Flag
+Thunder Shield
+Lightning
+Nimble Soul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+# Player info
+Player name: 39.[LG] Zooks
+Player level: 66
+
+# My cards
+Necroflayer, 19, 4, 760, 1830, swamp, Bloodsucker:80, Parry:160, Reincarnation:2, Resistance
+Taiga General
+Whitewing Pope
+Statue of Light, 15, 4, 400, 1790, tundra, Prayer:280, Regeneration:150, Arctic Guard:250, Electric Shock:150
+Manscorpion
+Astral Sentinel
+Behemoth
+Leprechaun
+
+# My runes
+Explosion
+Permafrost
+Tornado
+Death Zone
+
+
+
+
+
+

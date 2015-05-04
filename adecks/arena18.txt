@@ -1,0 +1,18 @@
+# Player info
+Player name: 18.[C4L]Colluse
+Player level: 65
+
+# My cards
+Taiga General
+Whitewing Pope
+Whitewing Pope
+Arctic Lich
+Arctic Lich
+Leprechaun, 17, 4, 420, 1000, forest, Regeneration:125, Dodge:60, Reanimation, QS_Blizzard:40
+
+#runes
+Permafrost
+Tornado
+Raised Flag
+Thunder Shield
+

@@ -1,0 +1,21 @@
+# Player info
+Player name: 20.[ff]Book
+Player level: 70
+
+# My cards
+Light Paladin
+Aranyani
+Elf Guard
+Astral Sentinel
+Taiga General
+Whitewing Pope
+Jack Frost
+Celestial Touchstone
+
+
+#runes
+Clear Spring
+Lightning
+Raised Flag
+Permafrost
+

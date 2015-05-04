@@ -1,0 +1,19 @@
+# Player info
+Player name: [OS]Lightja
+Player level: 66
+
+# My cards
+Whitewing Pope
+Whitewing Pope
+Moss Dragon
+Sea Piercer
+Omniscient Dragon, 19, 5, 509, 2950, forest, Guard, Resistance, Toxic Clouds:120, Electric Shock:25
+Astral Sentinel
+Exiled Angel, 20, 4, 610, 1650, forest, Electric Shock:175, QS_teleportation, Sacred Flame, Trap:2
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Concentration:100
+
+# My runes
+Permafrost
+Spring Breeze
+Thunder Shield
+Tornado

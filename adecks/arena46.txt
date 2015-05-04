@@ -1,0 +1,32 @@
+# Player info
+Player name: 46.Technician(2)
+Player level: 66
+
+# My cards
+Magma Frostblade, 14, 4, 695, 1110, mtn, Nova Frost:100, Forest Fire:135, Mountain Force:125, Retaliation:100
+Fire Kirin, 16, 4, 732, 1664, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Concentration:100
+Blood Lotus Nymph
+Draconian Elder, 15, 6, 538, 1123, mtn, Curse:240, Trap:2, QS_Teleportation, D_Electric Shock:50
+Dire Snapping Turtle, 16, 4, 677, 1780, mtn, Clean Sweep, Seal, Bloodsucker:80, D_Firestorm:150
+Azula
+Chaos Elemental
+Taiga Cleric, 14, 6, 474, 1097, tundra, Mountain Glacier:105, Fire wall:125, Reanimation, Nova Frost:20
+Azula
+
+
+# My runes
+Ghost Step
+Inferno
+Burning Soul
+Quicksand
+
+
+
+
+
+
+
+
+
+
+

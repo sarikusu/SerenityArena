@@ -1,0 +1,30 @@
+# Player info
+Player name: 94.Faelcos
+Player level: 71
+
+# My cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Chain Lightning:25
+Whitewing Pope
+Omniscient Dragon
+Thunder Dragon
+Forest Sprite
+Exiled Angel
+Exiled Angel
+Exiled Angel
+Moss Dragon
+
+
+# My runes
+Lightning
+Thunder Shield
+Raised Flag
+Spring breeze
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+# Player info
+Player name: 62.Juki
+Player level: 69
+
+# My cards
+Behemoth
+Taiga General
+Necroflayer
+Astral Sentinel
+Eagle Fighter, 16, 4, 685, 1230, forest, Snipe:150, Warpath:75, Dodge:45, QS_Exile
+Aranyani
+Fire Kirin, 16, 4, 704, 1638, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Firestorm:125
+Celestial Touchstone
+
+
+# My runes
+Spring Breeze
+Raised Flag
+Lightning
+Thunder Shield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

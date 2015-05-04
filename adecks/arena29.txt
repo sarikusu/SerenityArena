@@ -1,0 +1,21 @@
+# Player info
+Player name: 29.Erszebeth
+Player level: 63
+
+# My cards
+Leprechaun
+Astral Sentinel
+Arctic Lich
+Thunder Dragon
+Tundra Rider
+Fire Kirin, 14, 4, 732, 1664, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Whitewing Pope
+Celestial Touchstone
+
+# My runes
+Thunder Shield
+Lightning
+Raised Flag
+Permafrost
+
+

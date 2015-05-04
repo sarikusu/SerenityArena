@@ -1,0 +1,27 @@
+# Player info
+Player name: 97.[C4L]Raymie
+Player level: 71
+
+# My cards
+Astral Sentinel
+Thunder Dragon
+Moss Dragon
+Moss Dragon
+Taiga General
+Taiga General
+Silver Swordmaster
+Whitewing Pope
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Snipe:30
+
+
+# My runes
+Thunder Shield
+Permafrost
+Clear Spring
+Arctic Freeze
+
+
+
+
+
+

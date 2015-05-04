@@ -1,0 +1,21 @@
+# Player info
+Player name: 07.[HB] xVys
+Player level: 70
+
+# My cards
+Coiled Dragon
+Moss Dragon
+Taiga General, 17, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Chain Lightning:125
+Taiga General
+Taiga Cleric, 14, 6, 498, 1134, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Electric Shock:50
+Moss Dragon
+Jack Frost
+Barbarian Warcaller, 5, 2, 110, 400, tundra, Prayer:120
+
+
+# My runes
+Clear Spring
+Blizzard
+Permafrost
+Arctic Freeze
+

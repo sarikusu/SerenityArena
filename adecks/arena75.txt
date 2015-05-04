@@ -1,0 +1,38 @@
+# Player info
+Player name: 75.[C4L]Talidar
+Player level: 66
+
+# My cards
+Taiga General
+Aranyani
+Astral Sentinel
+Taiga Cleric, 15, 6, 450, 1060, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Resistance
+Taiga General
+Taiga General
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+
+
+
+# My runes
+Permafrost
+Clear Spring
+Lightning
+Thunder Shield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

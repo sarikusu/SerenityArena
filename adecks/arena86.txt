@@ -1,0 +1,36 @@
+# Player info
+Player name: 86.[CT]MR KROW
+Player level: 75
+
+# My cards
+Crystal Emperor, 18, 4, 738, 1586, tundra, Origins Guard:280, Ice Shield:150, Power Source:140, Resistance
+Arctic Lich
+Jack Frost, 20, 4, 610, 1610, tundra, Trap:3, Clean Sweep, QS_Destroy, Firestorm:150
+Whitewing Pope
+Tundra Rider
+Tundra Rider
+Taiga General
+Taiga General
+Taiga General
+
+
+
+
+# My runes
+Permafrost
+Tsunami
+Clear Spring
+Arctic Freeze
+
+
+
+
+
+
+
+
+
+
+
+
+

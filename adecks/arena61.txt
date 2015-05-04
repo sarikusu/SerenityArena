@@ -1,0 +1,37 @@
+# Player info
+Player name: 61.[LG]Rawr
+Player level: 72
+
+# My cards
+Jack Frost
+Taiga Cleric, 14, 6, 474, 1097, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Iceball:20
+Arctic Lich, 17, 4, 675, 1755, tundra, Mana Corruption:160, Sacred Flame, Resistance, Fireball:50
+Astral Sentinel
+Whitewing Pope
+Moss Dragon
+ThornyLizard, 15, 3, 615, 1430, forest, Snipe:150, Dual Snipe:150, Retaliation:120, Resistance
+Orc Teacher
+Taiga General, 16, 4, 629, 1793, tundra, Magic Shield:80, Exile, Regeneration:175, Thunderbolt:50
+
+
+# My runes
+Lightning
+Clear Spring
+Arctic Freeze
+Permafrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

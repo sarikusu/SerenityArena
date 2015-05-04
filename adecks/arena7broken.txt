@@ -1,0 +1,21 @@
+# Player info
+Player name: JohnKravis
+Player level: 64
+
+# My cards
+Zombie Dragon
+Celestial Touchstone
+Azula
+Astral Sentinel
+Taiga Cleric, 14, 6, 474, 1097, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, QS_Regeneration:50
+Fire Kirin, 16, 4, 704, 1638, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Nova Frost:20
+Moss Dragon, 16, 6, 715, 1776, forest, Concentration:120, Parry:160, Immunity, Forest Guard:150
+Ancient Oni, 16, 4, 731, 1630, swamp, sacrifice:100%, smog:160, Rejuvenation:300, QS_Trap:1
+
+
+# My runes
+Red Valley
+Stone Forest
+Tornado
+Lightning
+

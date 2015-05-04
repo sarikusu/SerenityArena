@@ -1,0 +1,25 @@
+# Player info
+Player name: 25.Slime
+Player level: 65
+
+# My cards
+Moss Dragon
+Queen of the Dead
+Celestial Touchstone
+Fire Dragon Turtle
+Taiga General, 17, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:300
+Aranyani
+Light Paladin
+Eagle Fighter, 16, 4, 685, 1230, forest, Snipe:150, Warpath:75, Dodge:45, Trap:2
+
+
+# My runes
+Lightning
+Revival
+Tornado
+Thunder Shield
+
+
+
+
+

@@ -1,0 +1,23 @@
+# Player info
+Player name: 28.What Up G
+Player level: 69
+
+# My cards
+Taiga General
+Taiga General
+Arctic Cephalid, 17, 4, 806, 1560, tundra, Reflection:210, Dodge:60, Bloodthirsty:70, Regeneration:50
+Taiga General
+Astral Sentinel
+Leprechaun
+Treant Healer
+Moss Dragon
+Moss Dragon, 16, 6, 685, 1743, forest, Concentration:120, parry:160, Immunity, Counterattack:60
+
+
+# My runes
+Thunder Shield
+Permafrost
+Arctic Freeze
+Tornado
+
+

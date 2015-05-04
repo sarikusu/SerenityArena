@@ -1,0 +1,36 @@
+# Player info
+Player name: 69.[WiC] Sehr
+Player level: 73
+
+# My cards
+Thunder Dragon
+Astral Sentinel
+Arctic Lich
+Fire Kirin, 17, 4, 676, 1612, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Ice Dragon
+Arctic Lich, 18, 4, 765, 1860, tundra, Mana Corruption:160, Sacred Flame, Resistance, Reflection:90
+Moss Dragon
+Celestial Touchstone
+Taiga Cleric, 16, 6, 498, 1134, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Resistance
+
+# My runes
+Permafrost
+Thunder Shield
+Spring Breeze
+Lightning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

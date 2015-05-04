@@ -1,0 +1,24 @@
+# Player info
+Player name: 06.WrathofHell
+Player level: 62
+
+# My cards
+Necroflayer
+Aranyani
+Arctic Lich
+Viscid Ooze
+Dire Snapping Turtle
+Arctic Cephalid
+Dharmanian
+Viscid Ooze
+Fire Kirin, 15, 4, 648, 1586, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, QS_Prayer:80
+Viscid Ooze
+
+# My runes
+Mineral
+Red valley
+Stonewall
+Permafrost
+
+
+

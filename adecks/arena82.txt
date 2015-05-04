@@ -1,0 +1,34 @@
+# Player info
+Player name: 82.[C4L] Flash
+Player level: 69
+
+# My cards
+Exiled Angel
+Whitewing Pope
+Astral Sentinel
+Skeleton King
+Aranyani, 16, 4, 708, 1746, forest, Magic Shield:80, Healing:250, QS_Teleportation, Healing:50
+Armored Sumatran
+Dire Snapping Turtle, 16, 4, 677, 1780, mtn, Clean Sweep, Seal, Bloodsucker:80, Firestorm:50
+Ice Dragon, 16, 6, 658, 1727, tundra, Dodge:45, Clean Sweep, Immunity, QS_Electric Shock:25
+
+# My runes
+Thunder Shield
+Lightning
+Revival
+Spring Breeze
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

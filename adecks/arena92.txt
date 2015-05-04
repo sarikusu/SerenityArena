@@ -1,0 +1,30 @@
+# Player info
+Player name: 92.WoN Poziomek
+Player level: 79
+
+# My cards
+Arctic Lich, 17, 4, 705, 1790, tundra, Mana Corruption:160, Sacred Flame, Resistance, Dodge:40
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Ancient One
+Whitewing Pope
+Celestial Touchstone, 21, 4, 829, 1932, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Snipe:180
+Astral Sentinel
+Lava Destroyer
+Thunder Dragon
+
+
+# My runes
+Permafrost
+Lightning
+Raised Flag
+Thunder Shield
+
+
+
+
+
+
+
+
+
+

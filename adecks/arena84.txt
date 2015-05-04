@@ -1,0 +1,34 @@
+# Player info
+Player name: 84.[LF] Luffy05
+Player level: 73
+
+# My cards
+Moss Dragon
+Ice Dragon
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Moss Dragon
+Taiga General, 18, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Healing:50
+Arctic Lich, 18, 4, 765, 1860, tundra, Mana Corruption:160, Sacred Flame, Resistance, Snipe:30
+Thunder Dragon, 18, 3, 663, 1555, forest, Electric Shock:150, mana corruption:160, Resurrection:65, Rejuvenation:60
+Whitewing Pope
+Exiled Angel, 18, 4, 670, 1710, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Weaken:60
+
+# My runes
+Permafrost
+Raised Flag
+Thunder Shield
+Lightning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
