@@ -1,6 +1,6 @@
 # Player info
 Player name: 72.[GoW]MitziHa
-Player level: 98
+Player level: 100
 
 # My cards
 Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
@@ -10,10 +10,10 @@ Thunder Dragon, 18, 3, 696, 1590, forest, Electric Shock:150, Mana Corruption:16
 Dharmanian, 17, 4, 794, 1840, tundra, Prayer:520, Northern Force:175, QS_Teleportation
 
 Ice Dragon, 18, 6, 770, 1875, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
-Celestial Touchstone, 22, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
 Rose Knight, 19, 4, 810, 1780, forest, Retaliation:160, Infiltrator, Dual Snipe:200, Trap:2
 Crystal Emperor, 18, 4, 738, 1586, tundra, Origins Guard:280, Ice Shield:150, Power Source:140, Resistance
-Whitewing Pope, 20, 4, 662, 1770, tundra, Blizzard:160, Reincarnation:1, Ice SHield:150, Blizzard:100
+Whitewing Pope, 20, 4, 662, 1770, tundra, Blizzard:160, Reincarnation:1, Ice SHield:150, Prayer:200
 
 
 
@@ -23,7 +23,7 @@ Permafrost
 Spring Breeze
 Lightning
 
-
+#Updated 2015-05-05
 
 
 
