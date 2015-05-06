@@ -1,0 +1,22 @@
+# Player info
+Player name: 102.[WoN]Garn
+Player level: 88
+
+#Cards
+Astral Sentinel
+Whitewing Pope, 19, 4, 636, 1740, tundra, Blizzard:160, Reincarnation:1, Ice SHield:150, qs_Blizzard:20
+Arctic Lich, 18, 4, 795, 1895, tundra, Mana Corruption:160, Sacred Flame, Resistance, Blizzard:120
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Trap:2
+Tundra Rider
+Crescent Rider, 18, 667, 1645, forest, Sacred Flame, Snipe:270, Dodge;60, nova frost:20
+Crystal Emperor, 17, 4, 738, 1586, tundra, Origins Guard:280, Ice Shield:150, Power Source:140, QS_Prayer:40
+Ancient One
+Celestial Touchstone, 21, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Forest Force:250
+
+#Runes
+Mineral
+Clear Spring
+Permafrost
+Leaf
+
+#Last Update 2015-05-06
