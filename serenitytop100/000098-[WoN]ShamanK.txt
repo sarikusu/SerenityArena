@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:30
+Player name: [WoN]ShamanK
+Player level: 78
+
+# Cards
+Ice Dragon, 15, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, D_Healing:75
+Ice Dragon, 15, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity
+Celestial Touchstone, 20, 4, 829, 1932, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Fire Wall:125
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Sea Piercer, 17, 4, 625, 1645, tundra, Sacred Flame, Divine Protection:400, Immunity
+
+# Runes
+Clear Spring
+Permafrost
+Spring Breeze
+Lightning

@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:48:50
+Player name: [C4L] Alec
+Player level: 73
+
+# Cards
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Exiled Angel, 19, 4, 700, 1740, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Retaliation:120
+Elf Captain, 9, 4, 310, 920, forest, Regeneration:75, Forest Guard:200, Regeneration:150
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Thunder Dragon, 18, 3, 663, 1555, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65, QS_Electric Shock:25
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Ancient One, 18, 4, 610, 1805, tundra, Clean Sweep, Infiltrator, Ice Shield:120
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, Puncture:45
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+
+# Runes
+Raised Flag
+Lightning
+Thunder Shield
+Spring Breeze

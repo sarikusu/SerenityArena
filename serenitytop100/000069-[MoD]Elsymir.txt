@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:05
+Player name: [MoD]Elsymir
+Player level: 81
+
+# Cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Iceball:40
+Exiled Angel, 19, 4, 700, 1740, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Blizzard:120
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Fire Kirin, 16, 4, 704, 1638, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Electric Shock:100
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Fire Demon, 16, 6, 798, 1854, mtn, Concentration:120, Laceration, Immunity, Bloodsucker:90
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Fire God:40
+Taiga General, 17, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Trap:2
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+
+# Runes
+Raised Flag
+Thunder Shield
+Lightning
+Permafrost

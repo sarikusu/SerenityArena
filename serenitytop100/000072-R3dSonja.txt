@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:20
+Player name: R3dSonja
+Player level: 77
+
+# Cards
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Ice Dragon, 16, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity, Nova Frost:60
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+
+# Runes
+Permafrost
+Lightning
+Thunder Shield
+Mineral

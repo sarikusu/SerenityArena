@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:44:20
+Player name: [LG]princeT
+Player level: 77
+
+# Cards
+Arctic Lich, 16, 4, 645, 1720, tundra, Mana Corruption:160, Sacred Flame, Resistance
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Trap:2
+Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Tundra Rider, 19, 3, 685, 1780, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100, Resistance
+Fire Demon, 17, 6, 830, 1890, mtn, Concentration:120, Laceration, Immunity, Bloodsucker:90
+Queen of the Dead, 18, 6, 775, 1810, mtn, Rejuvenation:240, Wicked Leech:21, Immunity, Bloodsucker:90
+Lava Destroyer, 23, 1, 780, 1730, mtn, Guard, Resurrection:60, D_Reanimation, Trap:2
+Arctic Overlord, 20, 4, 830, 1875, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Retaliation:140
+
+# Runes
+Permafrost
+Lightning
+Thunder Shield
+Frost Bite

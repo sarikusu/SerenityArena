@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:00
+Player name: [RT] Turtl
+Player level: 86
+
+# Cards
+Ice Dragon, 18, 6, 770, 1875, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Moss Dragon, 17, 6, 775, 1842, forest, Concentration:120, Parry:160, Immunity, Retaliation:100
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Sea Piercer, 17, 4, 625, 1645, tundra, Sacred Flame, Divine Protection:400, Immunity
+Exiled Angel, 19, 4, 640, 1680, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Forest Force:150
+
+# Runes
+Raised Flag
+Lightning
+Thunder Shield
+Permafrost

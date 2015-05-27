@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:48:30
+Player name: [RT]Heyfoo
+Player level: 82
+
+# Cards
+Taiga Cleric, 16, 6, 570, 1245, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Resistance
+Ice Dragon, 17, 6, 742, 1838, tundra, Dodge:45, Clean Sweep, Immunity, Retaliation:160
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+Whitewing Pope, 19, 4, 636, 1740, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Electric Shock:25
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, D_Fire God:40
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, QS_Exile
+Moss Dragon, 17, 6, 775, 1842, forest, Concentration:120, Parry:160, Immunity, Retaliation:140
+Fire Kirin, 15, 4, 620, 1560, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Electric Shock:25
+Omniscient Dragon, 19, 5, 509, 2950, forest, Guard, Resistance, Toxic Clouds:120, Electric Shock:25
+
+# Runes
+Raised Flag
+Lightning
+Thunder Shield
+Permafrost

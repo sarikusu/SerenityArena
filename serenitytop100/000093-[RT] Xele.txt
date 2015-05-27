@@ -1,0 +1,18 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:05
+Player name: [RT] Xele
+Player level: 75
+
+# Cards
+Light Paladin, 20, 4, 615, 2025, tundra, Puncture:105, Wicked Leech:21, Ice Shield:130, Resistance
+Tundra Rider, 17, 3, 604, 1684, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100, Nova Frost:80
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Ice Dragon, 16, 6, 658, 1727, tundra, Dodge:45, Clean Sweep, Immunity, Iceball:40
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Resistance
+
+# Runes
+Permafrost
+Raised Flag
+Thunder Shield
+Clear Spring

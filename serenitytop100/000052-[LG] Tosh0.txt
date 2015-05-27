@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:40
+Player name: [LG] Tosh0
+Player level: 75
+
+# Cards
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Iceball:120
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, QS_Firestorm:50
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Hephaestus, 17, 4, 655, 1720, mtn, Infiltrator, Firestorm:200, Immunity
+Sea Piercer, 17, 4, 625, 1645, tundra, Sacred Flame, Divine Protection:400, Immunity
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+
+# Runes
+Permafrost
+Lightning
+Thunder Shield
+Spring Breeze

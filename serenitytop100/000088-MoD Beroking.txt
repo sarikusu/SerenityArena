@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:48:40
+Player name: MoD Beroking
+Player level: 78
+
+# Cards
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Moss Dragon, 17, 6, 775, 1842, forest, Concentration:120, Parry:160, Immunity, Trap:2
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Balrog Sentry, 16, 2, 560, 1280, mtn, QS_Teleportation, Evasion, Resurrection:65
+Silver Swordmaster, 16, 3, 665, 1620, tundra, Blizzard:160, Concentration:140, Ice Shield:100
+
+# Runes
+Lightning
+Thunder Shield
+Raised Flag
+Spring Breeze

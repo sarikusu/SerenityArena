@@ -1,0 +1,21 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:48:55
+Player name: [GoW] Roza
+Player level: 84
+
+# Cards
+Arctic Cephalid, 16, 4, 730, 1500, tundra, Reflection:210, Dodge:60, Bloodthirsty:70
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+Dharmanian, 15, 4, 680, 1720, tundra, Prayer:320, Northern Force:175, QS_Teleportation
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Celestial Touchstone, 20, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Regeneration:25
+Headless Horseman, 9, 2, 455, 670, mtn, Dodge:35, Backstab:120, Concentration:140
+
+# Runes
+Clear Spring
+Thunder Shield
+Permafrost
+Spring Breeze

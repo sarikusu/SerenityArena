@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:30
+Player name: [GoW]SariDav
+Player level: 82
+
+# Cards
+Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Celestial Touchstone, 22, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Voodoo Scarecrow, 17, 4, 700, 1770, swamp, Mana Corruption:140, Resurrection:65, Trap:2
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+Behemoth, 16, 6, 580, 1852, swamp, Electric Shock:175, Retaliation:160, Immunity, Chain Lightning:150
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Necroflayer, 16, 4, 625, 1670, swamp, Bloodsucker:80, Reincarnation:2, Parry:160
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+
+# Runes
+Dirt
+Red Valley
+Thunder Shield
+Spring Breeze

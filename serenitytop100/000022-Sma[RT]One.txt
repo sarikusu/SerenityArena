@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:10
+Player name: Sma[RT]One
+Player level: 87
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 19, 4, 678, 1660, forest, Advanced Strike:2, Impede:2, Immunity, QS_Electric Shock:50
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Lava Destroyer, 22, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation, D_Electric Shock:150
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Soul Taker, 18, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity, Healing:25
+Soul Taker, 18, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity, Electric Shock:25
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Moss Dragon, 16, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity, Thunderbolt:50
+
+# Runes
+Raised Flag
+Permafrost
+Lightning
+Thunder Shield

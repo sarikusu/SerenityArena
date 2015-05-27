@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:20
+Player name: [RT] GetUp
+Player level: 79
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Resistance
+Arctic Overlord, 20, 4, 830, 1875, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Concentration:100
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, QS_Fire God:40
+Leprechaun, 19, 4, 468, 1040, forest, Regeneration:125, Dodge:60, Reanimation, Resistance
+Tundra Rider, 18, 3, 631, 1716, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100, Prayer:200
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+
+# Runes
+Clear Spring
+Raised Flag
+Permafrost
+Thunder Shield

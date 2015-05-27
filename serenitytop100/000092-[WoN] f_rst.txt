@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:00
+Player name: [WoN] f?rst
+Player level: 80
+
+# Cards
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Arctic Lich, 19, 4, 765, 1860, tundra, Mana Corruption:160, Sacred Flame, Resistance, Trap:2
+Ice Dragon, 18, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
+Thunder Dragon, 19, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65, Concentration:100
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Leprechaun, 16, 4, 420, 1000, forest, Regeneration:125, Dodge:60, Reanimation
+
+# Runes
+Thunder Shield
+Permafrost
+Clear Spring
+Lightning

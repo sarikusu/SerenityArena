@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:44:05
+Player name: [Won] Beast
+Player level: 86
+
+# Cards
+Ancient One, 19, 4, 664, 1875, tundra, Clean Sweep, Infiltrator, Ice Shield:120, Nova Frost:40
+Tundra Rider, 19, 3, 658, 1748, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100, Trap:2
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, D_Firestorm:75
+Goddess of Order, 14, 4, 600, 1550, forest, Regeneration:175, Prayer:320, D_Reanimation
+Soul Taker, 18, 4, 651, 1835, tundra, Concentration:120, Infiltrator, Immunity, Iceball:20
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Iceball:40
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Celestial Touchstone, 21, 4, 871, 1988, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Nova Frost:60
+Arctic Overlord, 19, 4, 737, 1770, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Retaliation:120
+
+# Runes
+Permafrost
+Raised Flag
+Thunder Shield
+Arctic Freeze

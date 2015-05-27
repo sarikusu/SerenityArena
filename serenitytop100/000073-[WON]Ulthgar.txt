@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:25
+Player name: [WON]Ulthgar
+Player level: 82
+
+# Cards
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Jack Frost, 21, 4, 760, 1780, tundra, Trap:3, Clean Sweep, QS_Destroy, Resistance
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Whitewing Pope, 19, 4, 636, 1740, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Nova Frost:20
+Arctic Lich, 18, 4, 735, 1825, tundra, Mana Corruption:160, Sacred Flame, Resistance, QS_Exile
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Trap:2
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+
+# Runes
+Spring Breeze
+Clear Spring
+Thunder Shield
+Permafrost

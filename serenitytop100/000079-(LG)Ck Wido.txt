@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:55
+Player name: (LG)Ck Wido
+Player level: 75
+
+# Cards
+Exiled Angel, 19, 4, 700, 1740, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Electric Shock:150
+Typhon, 19, 1, 680, 1680, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110, D_Firestorm:75
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Astral Sentinel, 19, 4, 678, 1660, forest, Advanced Strike:2, Impede:2, Immunity, Rejuvenation:120
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+
+# Runes
+Spring Breeze
+Thunder Shield
+Red Valley
+Lightning

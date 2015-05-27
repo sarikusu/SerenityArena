@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:00
+Player name: RT Titty
+Player level: 82
+
+# Cards
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Whitewing Pope, 19, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, QS_Blizzard:40
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Ice Dragon, 18, 6, 770, 1875, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+
+# Runes
+Raised Flag
+Thunder Shield
+Lightning
+Permafrost

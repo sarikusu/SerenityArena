@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:46:25
+Player name: Nosferatu
+Player level: 80
+
+# Cards
+Crescent Rider, 17, 4, 635, 1610, forest, Sacred Flame, Snipe:270, Dodge:60
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Sea Piercer, 17, 4, 625, 1645, tundra, Sacred Flame, Divine Protection:400, Immunity
+Moss Dragon, 17, 6, 775, 1842, forest, Concentration:120, Parry:160, Immunity, Trap:2
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Chain Lightning:25
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Taiga General, 17, 4, 701, 1922, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+
+# Runes
+Lightning
+Permafrost
+Raised Flag
+Thunder Shield

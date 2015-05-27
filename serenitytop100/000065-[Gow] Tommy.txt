@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:46:45
+Player name: [Gow] Tommy
+Player level: 79
+
+# Cards
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Resistance
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Omniscient Dragon, 19, 5, 509, 2950, forest, Guard, Resistance, Toxic Clouds:120, QS_Electric Shock:50
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+
+# Runes
+Lightning
+Permafrost
+Spring Breeze
+Thunder Shield

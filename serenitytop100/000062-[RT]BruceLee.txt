@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:46:30
+Player name: [RT]BruceLee
+Player level: 77
+
+# Cards
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Lava Destroyer, 23, 1, 780, 1730, mtn, Guard, Resurrection:60, D_Reanimation, Resistance
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Arctic Cephalid, 19, 4, 920, 1650, tundra, Reflection:210, Dodge:60, Bloodthirsty:70, Resistance
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+
+# Runes
+Permafrost
+Lightning
+Clear Spring
+Thunder Shield

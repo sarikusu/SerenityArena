@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:40
+Player name: FSL CpCarrot
+Player level: 78
+
+# Cards
+Arctic Lich, 16, 4, 645, 1720, tundra, Mana Corruption:160, Sacred Flame, Resistance
+Moss Dragon, 16, 6, 715, 1776, forest, Concentration:120, Parry:160, Immunity, Blizzard:100
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Hephaestus, 17, 4, 655, 1720, mtn, Infiltrator, Firestorm:200, Immunity
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+
+# Runes
+Permafrost
+Lightning
+Raised Flag
+Stonewall

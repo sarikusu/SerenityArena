@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:05
+Player name: [WoN] Marv
+Player level: 85
+
+# Cards
+Astral Sentinel, 20, 4, 736, 1720, forest, Advanced Strike:2, Impede:2, Immunity, Retaliation:140
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+Ice Dragon, 17, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity, Firestorm:150
+Arctic Overlord, 20, 4, 830, 1875, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Trap:2
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Tundra Rider, 18, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100, Snipe:210
+
+# Runes
+Permafrost
+Lightning
+Raised Flag
+Thunder Shield

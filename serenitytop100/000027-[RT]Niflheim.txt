@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:35
+Player name: [RT]Niflheim
+Player level: 79
+
+# Cards
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Lava Destroyer, 21, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation, D_Firestorm:100
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Sea Piercer, 17, 4, 625, 1645, tundra, Sacred Flame, Divine Protection:400, Immunity
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+
+# Runes
+Thunder Shield
+Lightning
+Permafrost
+Spring Breeze

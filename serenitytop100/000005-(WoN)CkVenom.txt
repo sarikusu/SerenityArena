@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:41:45
+Player name: (WoN)CkVenom
+Player level: 86
+
+# Cards
+Crimson Phoenix, 21, 3, 765, 1730, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55, Concentration:100
+Queen of the Dead, 18, 6, 775, 1810, mtn, Rejuvenation:240, Wicked Leech:21, Immunity, Bloodsucker:80
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Aranyani, 15, 4, 736, 1782, forest, Magic Shield:80, Healing:250, QS_Teleportation, QS_Blizzard:100
+Fire Demon, 16, 6, 766, 1818, mtn, Concentration:120, Laceration, Immunity, Retaliation:120
+Arctic Overlord, 20, 4, 830, 1875, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Trap:2
+Armored Turkey, 18, 4, 630, 1760, mtn, Evasion, Slayer:120, Exile
+Lava Destroyer, 23, 1, 780, 1730, mtn, Guard, Resurrection:60, D_Reanimation, Bloodsucker:80
+Hephaestus, 17, 4, 655, 1720, mtn, Infiltrator, Firestorm:200, Immunity
+
+# Runes
+Lore
+Ghost Step
+Burning Soul
+Blood Stone

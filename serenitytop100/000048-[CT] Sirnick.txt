@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:20
+Player name: [CT] Sirnick
+Player level: 79
+
+# Cards
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Omniscient Dragon, 18, 5, 490, 2900, forest, Guard, Resistance, Toxic Clouds:120
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Armored Sumatran, 16, 4, 540, 1830, forest, Resistance, Craze:80, Retaliation:120
+Arctic Overlord, 20, 4, 830, 1875, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Resistance
+Leprechaun, 19, 4, 540, 1100, forest, Regeneration:125, Dodge:60, Reanimation, Resistance
+
+# Runes
+Nimble Soul
+Thunder Shield
+Lightning
+Raised Flag

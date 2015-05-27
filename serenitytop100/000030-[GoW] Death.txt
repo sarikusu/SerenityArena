@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:50
+Player name: [GoW] Death
+Player level: 92
+
+# Cards
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Trap:2
+Celestial Touchstone, 22, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Regeneration:125
+Armored Sumatran, 19, 4, 660, 2045, forest, Resistance, Craze:80, Retaliation:120, Retaliation:160
+Moss Dragon, 17, 6, 775, 1842, forest, Concentration:120, Parry:160, Immunity, Retaliation:140
+Ice Dragon, 17, 6, 714, 1801, tundra, Dodge:45, Clean Sweep, Immunity, Blizzard:100
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Arctic Lich, 16, 4, 645, 1720, tundra, Mana Corruption:160, Sacred Flame, Resistance
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+
+# Runes
+Permafrost
+Thunder Shield
+Clear Spring
+Lightning

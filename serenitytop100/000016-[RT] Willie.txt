@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:40
+Player name: [RT] Willie
+Player level: 82
+
+# Cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Thunderbolt:50
+Exiled Angel, 19, 4, 700, 1740, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Blizzard:120
+Moss Dragon, 18, 6, 775, 1842, forest, Concentration:120, Parry:160, Immunity, Trap:2
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Nova Frost:20
+Fire Demon, 17, 6, 798, 1854, mtn, Concentration:120, Laceration, Immunity, Trap:2
+Dharmanian, 15, 4, 680, 1720, tundra, Prayer:320, Northern Force:175, QS_Teleportation
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, QS_Toxic Clouds:40
+Aranyani, 15, 4, 708, 1746, forest, Magic Shield:80, Healing:250, QS_Teleportation, QS_Blizzard:40
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+
+# Runes
+Raised Flag
+Thunder Shield
+Spring Breeze
+Blood Stone

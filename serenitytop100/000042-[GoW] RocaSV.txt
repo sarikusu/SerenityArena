@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:44:50
+Player name: [GoW] RocaSV
+Player level: 80
+
+# Cards
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, Fire Wall:100
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Trap:2
+Exiled Angel, 19, 4, 700, 1740, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Thunderbolt:75
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Weaken:30
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Ice Dragon, 17, 6, 742, 1838, tundra, Dodge:45, Clean Sweep, Immunity, Blizzard:120
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Moss Dragon, 16, 6, 715, 1776, forest, Concentration:120, Parry:160, Immunity, Blizzard:100
+
+# Runes
+Lightning
+Thunder Shield
+Permafrost
+Raised Flag

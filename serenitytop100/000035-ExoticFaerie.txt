@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:44:15
+Player name: ExoticFaerie
+Player level: 83
+
+# Cards
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Weaken:30
+Moss Dragon, 16, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity, Thunderbolt:25
+Taiga General, 16, 4, 629, 1793, tundra, Magic Shield:80, Exile, Regeneration:175, Chain Lightning:125
+Arctic Overlord, 18, 4, 737, 1770, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, QS_Trap:2
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Resistance
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, Bloodsucker:50
+Ancient One, 18, 4, 610, 1805, tundra, Clean Sweep, Infiltrator, Ice Shield:120
+
+# Runes
+Permafrost
+Spring Breeze
+Raised Flag
+Lightning

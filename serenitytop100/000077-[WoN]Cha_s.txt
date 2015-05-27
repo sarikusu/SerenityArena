@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:45
+Player name: [WoN]Chaøs
+Player level: 76
+
+# Cards
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Iceball:20
+Armored Sumatran, 19, 4, 636, 2002, forest, Resistance, Craze:80, Retaliation:120, Concentration:100
+Moss Dragon, 16, 6, 685, 1743, forest, Concentration:120, Parry:160, Immunity, Counterattack:60
+Ancient One, 18, 4, 610, 1805, tundra, Clean Sweep, Infiltrator, Ice Shield:120
+Silver Swordmaster, 16, 3, 665, 1620, tundra, Blizzard:160, Concentration:140, Ice Shield:100
+Taiga General, 17, 4, 701, 1922, tundra, Magic Shield:80, Exile, Regeneration:175, Trap:2
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Electric Shock:125
+Dharmanian, 15, 4, 680, 1720, tundra, Prayer:320, Northern Force:175, QS_Teleportation
+
+# Runes
+Permafrost
+Spring Breeze
+Clear Spring
+Thunder Shield

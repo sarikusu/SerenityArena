@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:25
+Player name: Ek_Chuah
+Player level: 73
+
+# Cards
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Astral Sentinel, 20, 4, 736, 1720, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Group Weaken:10
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+Treant Healer, 14, 6, 365, 1180, forest, QS_Exile, Reincarnation:2, Forest Guard:250
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Leprechaun, 16, 4, 420, 1000, forest, Regeneration:125, Dodge:60, Reanimation
+
+# Runes
+Spring Breeze
+Lightning
+Raised Flag
+Thunder Shield

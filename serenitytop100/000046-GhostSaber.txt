@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:10
+Player name: GhostSaber
+Player level: 78
+
+# Cards
+Hecate, 17, 4, 644, 1750, forest, Divine Protection:350, Regeneration:150, Immunity, Rejuvenation:150
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Northern Force:100
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Moss Dragon, 18, 6, 805, 1875, forest, Concentration:120, Parry:160, Immunity, Retaliation:160
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Taiga General, 17, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Parry:140
+
+# Runes
+Permafrost
+Spring Breeze
+Lightning
+Thunder Shield

@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:55
+Player name: hiox
+Player level: 84
+
+# Cards
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Celestial Touchstone, 21, 4, 829, 1932, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Trap:2
+Exiled Angel, 18, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Chain Lightning:100
+Lava Destroyer, 21, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation, Fireball:25
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Arctic Cephalid, 18, 4, 730, 1500, tundra, Reflection:210, Dodge:60, Bloodthirsty:70, Trap:2
+
+# Runes
+Lightning
+Thunder Shield
+Spring Breeze
+Permafrost

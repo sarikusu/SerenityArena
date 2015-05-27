@@ -1,0 +1,21 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:35
+Player name: jrlord
+Player level: 81
+
+# Cards
+Fire Kirin, 14, 4, 620, 1560, forest, Firestorm:200, Rejuvenation:210, Resurrection:70
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Ice Dragon, 15, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Concentration:100
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Fire Kirin, 14, 4, 620, 1560, forest, Firestorm:200, Rejuvenation:210, Resurrection:70
+Ice Dragon, 17, 6, 714, 1801, tundra, Dodge:45, Clean Sweep, Immunity, Firestorm:150
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Aranyani, 15, 4, 708, 1746, forest, Magic Shield:80, Healing:250, QS_Teleportation, Rejuvenation:30
+Moss Dragon, 16, 6, 715, 1776, forest, Concentration:120, Parry:160, Immunity, Firestorm:100
+
+# Runes
+Nimble Soul
+Thunder Shield
+Raised Flag
+Lightning

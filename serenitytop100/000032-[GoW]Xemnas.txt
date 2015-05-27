@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:44:00
+Player name: [GoW]Xemnas
+Player level: 87
+
+# Cards
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Retaliation:140
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+
+# Runes
+Lightning
+Dirt
+Red Valley
+Thunder Shield

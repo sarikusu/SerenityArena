@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:55
+Player name: [WoN] Denni
+Player level: 84
+
+# Cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Iceball:40
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Moss Dragon, 16, 6, 685, 1743, forest, Concentration:120, Parry:160, Immunity, Weaken:30
+Thunder Dragon, 18, 3, 663, 1555, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65, QS_Blizzard:40
+Lava Destroyer, 22, 1, 747, 1680, mtn, Guard, Resurrection:60, D_Reanimation, Firestorm:150
+Arctic Lich, 16, 4, 645, 1720, tundra, Mana Corruption:160, Sacred Flame, Resistance
+Whitewing Pope, 19, 4, 636, 1740, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Chain Lightning:25
+Ancient One, 18, 4, 610, 1805, tundra, Clean Sweep, Infiltrator, Ice Shield:120
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Prayer:120
+
+# Runes
+Raised Flag
+Lightning
+Thunder Shield
+Clear Spring

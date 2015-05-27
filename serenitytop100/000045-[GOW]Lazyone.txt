@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:05
+Player name: [GOW]Lazyone
+Player level: 81
+
+# Cards
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Nova Frost:20
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Electric Shock:150
+Taiga General, 16, 4, 653, 1836, tundra, Magic Shield:80, Exile, Regeneration:175, Firestorm:50
+Armored Turkey, 18, 4, 630, 1760, mtn, Evasion, Slayer:120, Exile
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Ice Dragon, 15, 6, 630, 1690, tundra, Dodge:45, Clean Sweep, Immunity
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, QS_Fire God:20
+
+# Runes
+Permafrost
+Clear Spring
+Arctic Freeze
+Frost Bite

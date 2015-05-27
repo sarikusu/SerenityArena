@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:35
+Player name: [WoN] NelieL
+Player level: 83
+
+# Cards
+Arctic Lich, 18, 4, 765, 1860, tundra, Mana Corruption:160, Sacred Flame, Resistance, Reflection:150
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Ice Dragon, 17, 6, 714, 1801, tundra, Dodge:45, Clean Sweep, Immunity, Blizzard:120
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Trap:2
+Moss Dragon, 17, 6, 745, 1809, forest, Concentration:120, Parry:160, Immunity, Firestorm:125
+Celestial Touchstone, 21, 4, 871, 1988, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Chain Lightning:150
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+
+# Runes
+Arctic Freeze
+Spring Breeze
+Lightning
+Thunder Shield

@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:45
+Player name: [WoN] Killer
+Player level: 89
+
+# Cards
+Ice Dragon, 17, 6, 714, 1801, tundra, Dodge:45, Clean Sweep, Immunity, Blizzard:120
+Celestial Touchstone, 21, 4, 871, 1988, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Fire God:100
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Silver Swordmaster, 16, 3, 665, 1620, tundra, Blizzard:160, Concentration:140, Ice Shield:100
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Whitewing Pope, 20, 4, 688, 1800, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Electric Shock:150
+Exiled Angel, 19, 4, 700, 1740, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Group Weaken:50
+Lava Destroyer, 22, 1, 714, 1630, mtn, Guard, Resurrection:60, D_Reanimation, Reflection:120
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+
+# Runes
+Permafrost
+Raised Flag
+Thunder Shield
+Clear Spring

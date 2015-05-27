@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:46:05
+Player name: Pleinair
+Player level: 73
+
+# Cards
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Blizzard:100
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Voodoo Scarecrow, 18, 4, 766, 1844, swamp, Mana Corruption:140, Resurrection:65, Trap:2, Reflection:60
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Celestial Touchstone, 19, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+
+# Runes
+Spring Breeze
+Permafrost
+Lightning
+Thunder Shield

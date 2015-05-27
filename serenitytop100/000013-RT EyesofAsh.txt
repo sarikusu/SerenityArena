@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:25
+Player name: RT EyesofAsh
+Player level: 92
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Necroflayer, 19, 4, 760, 1830, swamp, Bloodsucker:80, Reincarnation:2, Parry:160, Resistance
+Behemoth, 16, 6, 620, 1944, swamp, Electric Shock:175, Retaliation:160, Immunity, Trap:2
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Blizzard:120
+Voodoo Scarecrow, 19, 4, 832, 1918, swamp, Mana Corruption:140, Resurrection:65, Trap:2, Trap:2
+Astral Sentinel, 19, 4, 678, 1660, forest, Advanced Strike:2, Impede:2, Immunity, Nova Frost:60
+Sea Piercer, 17, 4, 625, 1645, tundra, Sacred Flame, Divine Protection:400, Immunity
+Jack Frost, 20, 4, 730, 1746, tundra, Trap:3, Clean Sweep, QS_Destroy, Resistance
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, D_Healing:75
+
+# Runes
+Permafrost
+Red Valley
+Lightning
+Thunder Shield

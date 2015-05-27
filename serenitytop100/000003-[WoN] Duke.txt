@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:41:35
+Player name: [WoN] Duke
+Player level: 84
+
+# Cards
+Whitewing Pope, 19, 4, 662, 1770, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Nova Frost:20
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, QS_Electric Shock:50
+Queen of the Dead, 18, 6, 775, 1810, mtn, Rejuvenation:240, Wicked Leech:21, Immunity, Bloodsucker:80
+Arctic Overlord, 19, 4, 799, 1840, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Resistance
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Lava Destroyer, 21, 1, 648, 1530, mtn, Guard, Resurrection:60, D_Reanimation, Toxic Clouds:20
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Nova Frost:40
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+
+# Runes
+Thunder Shield
+Lightning
+Spring Breeze
+Permafrost

@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:50
+Player name: [GoW]Lightja
+Player level: 91
+
+# Cards
+Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Whitewing Pope, 20, 4, 714, 1830, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Resistance
+Voodoo Scarecrow, 19, 4, 832, 1918, swamp, Mana Corruption:140, Resurrection:65, Trap:2, Reflection:150
+Behemoth, 15, 6, 560, 1806, swamp, Electric Shock:175, Retaliation:160, Immunity, Nova Frost:20
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Electric Shock:150
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+
+# Runes
+Lightning
+Thunder Shield
+Coldwave
+Spring Breeze

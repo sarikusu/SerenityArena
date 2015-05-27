@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:46:10
+Player name: [RT] JW
+Player level: 83
+
+# Cards
+Armored Turkey, 18, 4, 630, 1760, mtn, Evasion, Slayer:120, Exile
+Armored Turkey, 18, 4, 630, 1760, mtn, Evasion, Slayer:120, Exile
+Armored Turkey, 18, 4, 630, 1760, mtn, Evasion, Slayer:120, Exile
+Crimson Phoenix, 20, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55, Mountain Force:125
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Fire Demon, 16, 6, 670, 1710, mtn, Concentration:120, Laceration, Immunity, Blizzard:120
+Dire Snapping Turtle, 18, 4, 625, 1700, mtn, Clean Sweep, Seal, Bloodsucker:80, Trap:2
+Queen of the Dead, 15, 6, 640, 1660, mtn, Rejuvenation:240, Wicked Leech:21, Immunity
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+
+# Runes
+Ghost Step
+Burning Soul
+Blood Stone
+Lore

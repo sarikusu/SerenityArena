@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:20
+Player name: [GoW]  True
+Player level: 86
+
+# Cards
+Celestial Touchstone, 21, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Trap:2
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Fire Demon, 16, 6, 766, 1818, mtn, Concentration:120, Laceration, Immunity, Bloodsucker:70
+Thunder Dragon, 19, 3, 762, 1660, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65, Forest Force:125
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, Thunderbolt:50
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Arctic Lich, 18, 4, 735, 1825, tundra, Mana Corruption:160, Sacred Flame, Resistance, Reflection:120
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+
+# Runes
+Thunder Shield
+Spring Breeze
+Raised Flag
+Lightning

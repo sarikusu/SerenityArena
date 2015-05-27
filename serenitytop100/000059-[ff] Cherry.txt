@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:46:15
+Player name: [ff] Cherry
+Player level: 83
+
+# Cards
+Celestial Touchstone, 20, 4, 787, 1876, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, QS_Prayer:40
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Arctic Overlord, 18, 4, 706, 1735, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Fireball:50
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Iceball:40
+Exiled Angel, 18, 4, 640, 1680, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Healing:25
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+Aranyani, 17, 4, 820, 1890, forest, Magic Shield:80, Healing:250, QS_Teleportation, Resistance
+Taiga General, 17, 4, 677, 1879, tundra, Magic Shield:80, Exile, Regeneration:175, Prayer:200
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+
+# Runes
+Permafrost
+Raised Flag
+Lightning
+Thunder Shield

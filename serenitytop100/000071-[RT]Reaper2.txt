@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:15
+Player name: [RT]Reaper2
+Player level: 83
+
+# Cards
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+God of Pain, 16, 4, 645, 1540, mtn, Sacrifice:100, Puncture:105, Evasion
+Dire Snapping Turtle, 16, 4, 651, 1740, mtn, Clean Sweep, Seal, Bloodsucker:80, Parry:40
+Frostfire Maiden, 20, 4, 720, 1575, mtn, Infiltrator, Warpath:105, Resurrection:65, Self-Destruct:200
+Queen of the Dead, 15, 6, 640, 1660, mtn, Rejuvenation:240, Wicked Leech:21, Immunity
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, Bite:120
+Queen of the Dead, 15, 6, 640, 1660, mtn, Rejuvenation:240, Wicked Leech:21, Immunity
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Fire Demon, 14, 6, 670, 1710, mtn, Concentration:120, Laceration, Immunity
+
+# Runes
+Blood Stone
+Lore
+Burning Soul
+Ghost Step

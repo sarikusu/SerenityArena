@@ -1,0 +1,21 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:05
+Player name: [GoW] Emetz
+Player level: 100
+
+# Cards
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Typhon, 18, 1, 650, 1650, swamp, Toxic Clouds:160, Retaliation:160, Ice Shield:110
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+Behemoth, 14, 6, 540, 1760, swamp, Electric Shock:175, Retaliation:160, Immunity
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Trap:2
+Lava Destroyer, 23, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation, Reflection:150
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Voodoo Scarecrow, 17, 4, 700, 1770, swamp, Mana Corruption:140, Resurrection:65, Trap:2
+Giant Mud Larva, 17, 4, 660, 1650, swamp, Regeneration:175, QS_Destroy, Swamp Guard:300, Chain Lightning:25
+
+# Runes
+Dirt
+Red Valley
+Stone Forest
+Holy Well

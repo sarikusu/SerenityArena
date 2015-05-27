@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:45:15
+Player name: [WoN]Subutai
+Player level: 83
+
+# Cards
+Fire Demon, 16, 6, 766, 1818, mtn, Concentration:120, Laceration, Immunity, Counterattack:240
+Lava Destroyer, 21, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation, D_Prayer:40
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Tundra Rider, 16, 3, 550, 1620, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100
+Ice Dragon, 16, 6, 686, 1764, tundra, Dodge:45, Clean Sweep, Immunity, Nova Frost:80
+Astral Sentinel, 19, 4, 678, 1660, forest, Advanced Strike:2, Impede:2, Immunity, Snipe:150
+Moss Dragon, 16, 6, 715, 1776, forest, Concentration:120, Parry:160, Immunity, Retaliation:80
+Celestial Touchstone, 21, 4, 871, 1988, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Fire God:80
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+
+# Runes
+Permafrost
+Raised Flag
+Thunder Shield
+Spring Breeze

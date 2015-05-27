@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:48:45
+Player name: [WiC] Sehr
+Player level: 77
+
+# Cards
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Moss Dragon, 16, 6, 715, 1776, forest, Concentration:120, Parry:160, Immunity, Nova Frost:80
+Arctic Lich, 16, 4, 645, 1720, tundra, Mana Corruption:160, Sacred Flame, Resistance
+Celestial Touchstone, 20, 4, 745, 1820, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, QS_Firestorm:50
+Arctic Lich, 18, 4, 765, 1860, tundra, Mana Corruption:160, Sacred Flame, Resistance, Reflection:90
+Ice Dragon, 17, 6, 714, 1801, tundra, Dodge:45, Clean Sweep, Immunity, Electric Shock:75
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Taiga Cleric, 16, 6, 570, 1245, tundra, Mountain Glacier:105, Fire Wall:125, Reanimation, Resistance
+Thunder Dragon, 17, 3, 630, 1520, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65
+
+# Runes
+Permafrost
+Raised Flag
+Thunder Shield
+Lightning

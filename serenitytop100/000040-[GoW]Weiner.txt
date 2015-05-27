@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:44:40
+Player name: [GoW]Weiner
+Player level: 92
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Light Paladin, 20, 4, 615, 2025, tundra, Puncture:105, Wicked Leech:21, Ice Shield:130, Resistance
+Azula, 15, 4, 610, 1500, mtn, Curse:240, Seal, Resurrection:65
+Dire Snapping Turtle, 16, 4, 625, 1700, mtn, Clean Sweep, Seal, Bloodsucker:80, Blizzard:100
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+Frostfire Maiden, 21, 4, 780, 1625, mtn, Infiltrator, Warpath:105, Resurrection:65, Resistance
+Fire Demon, 17, 6, 830, 1890, mtn, Concentration:120, Laceration, Immunity, Bloodsucker:90
+
+# Runes
+Ghost Step
+Lore
+Burning Soul
+Blood Stone

@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:10
+Player name: [GoW]Prodigy
+Player level: 92
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Leprechaun, 18, 4, 516, 1080, forest, Regeneration:125, Dodge:60, Reanimation, Resistance
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Queen of the Dead, 18, 6, 775, 1810, mtn, Rejuvenation:240, Wicked Leech:21, Immunity, Bloodsucker:80
+Frostfire Maiden, 21, 4, 780, 1625, mtn, Infiltrator, Warpath:105, Resurrection:65, Resistance
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+Crimson Phoenix, 18, 3, 615, 1580, mtn, QS_Mass Attrition:1, D_Destroy, Resurrection:55
+
+# Runes
+Ghost Step
+Burning Soul
+Blood Stone
+Lightning

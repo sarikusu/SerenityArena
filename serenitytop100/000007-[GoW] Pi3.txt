@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:41:55
+Player name: [GoW] Pi3
+Player level: 99
+
+# Cards
+Ancient One, 21, 4, 745, 1980, tundra, Clean Sweep, Infiltrator, Ice Shield:120, Resistance
+Whitewing Pope, 21, 4, 740, 1860, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Resistance
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Queen of the Dead, 18, 6, 775, 1810, mtn, Rejuvenation:240, Wicked Leech:21, Immunity, Bloodsucker:90
+Hephaestus, 20, 4, 805, 1880, mtn, Infiltrator, Firestorm:200, Immunity, Bloodsucker:90
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Frostfire Maiden, 20, 4, 750, 1600, mtn, Infiltrator, Warpath:105, Resurrection:65, Bloodsucker:90
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+
+# Runes
+Blood Stone
+Clear Spring
+Permafrost
+Ghost Step

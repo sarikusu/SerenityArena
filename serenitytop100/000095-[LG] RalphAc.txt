@@ -1,0 +1,21 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:49:15
+Player name: [LG] RalphAc
+Player level: 73
+
+# Cards
+Fire Kirin, 17, 4, 760, 1690, forest, Firestorm:200, Rejuvenation:210, Resurrection:70, Resistance
+Fire Demon, 15, 6, 734, 1782, mtn, Concentration:120, Laceration, Immunity, D_Toxic Clouds:60
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+Hephaestus, 17, 4, 655, 1720, mtn, Infiltrator, Firestorm:200, Immunity
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Balrog Sentry, 16, 2, 560, 1280, mtn, QS_Teleportation, Evasion, Resurrection:65
+Fire Mage, 9, 2, 355, 750, mtn, Fireball:100, D_Firestorm:100, Resurrection:65
+
+# Runes
+Thunder Shield
+Inferno
+Lightning
+Blood Stone

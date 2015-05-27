@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:48:20
+Player name: [WoN] DAEMON
+Player level: 80
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, Thunderbolt:25
+Lava Destroyer, 21, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation, Nova Frost:20
+Exiled Angel, 19, 4, 670, 1710, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Blizzard:100
+Whitewing Pope, 18, 4, 610, 1710, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Soul Taker, 17, 4, 620, 1800, tundra, Concentration:120, Infiltrator, Immunity
+Moss Dragon, 16, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity, Group Weaken:20
+
+# Runes
+Lightning
+Raised Flag
+Thunder Shield
+Permafrost

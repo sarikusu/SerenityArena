@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:47:00
+Player name: [WoN]ZalexPL
+Player level: 81
+
+# Cards
+Celestial Touchstone, 21, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Trap:2
+Exiled Angel, 18, 4, 670, 1710, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Snipe:150
+Arctic Lich, 19, 4, 795, 1895, tundra, Mana Corruption:160, Sacred Flame, Resistance, Concentration:100
+Jack Frost, 21, 4, 760, 1780, tundra, Trap:3, Clean Sweep, QS_Destroy, Resistance
+Lava Destroyer, 22, 1, 714, 1630, mtn, Guard, Resurrection:60, D_Reanimation, Snipe:180
+Astral Sentinel, 19, 4, 649, 1630, forest, Advanced Strike:2, Impede:2, Immunity, QS_Electric Shock:25
+Thunder Dragon, 18, 3, 696, 1590, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65, Electric Shock:50
+Ancient One, 18, 4, 610, 1805, tundra, Clean Sweep, Infiltrator, Ice Shield:120
+
+# Runes
+Raised Flag
+Thunder Shield
+Permafrost
+Methane

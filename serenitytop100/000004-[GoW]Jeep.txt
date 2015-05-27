@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:41:40
+Player name: [GoW]Jeep
+Player level: 102
+
+# Cards
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 21, 4, 765, 1750, forest, Advanced Strike:2, Impede:2, Immunity, Trap:2
+Rose Knight, 19, 4, 810, 1780, forest, Retaliation:160, Infiltrator, Dual Snipe:200, Trap:2
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+Arctic Lich, 18, 4, 765, 1860, tundra, Mana Corruption:160, Sacred Flame, Resistance, Electric Shock:100
+Crystal Emperor, 18, 4, 738, 1586, tundra, Origins Guard:280, Ice Shield:150, Power Source:140, Resistance
+Ice Dragon, 18, 6, 770, 1875, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
+Jack Frost, 20, 4, 730, 1746, tundra, Trap:3, Clean Sweep, QS_Destroy, Resistance
+Whitewing Pope, 20, 4, 714, 1830, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Prayer:200
+
+# Runes
+Thunder Shield
+Lightning
+Permafrost
+Spring Breeze

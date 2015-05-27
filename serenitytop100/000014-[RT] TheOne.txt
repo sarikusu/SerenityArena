@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:30
+Player name: [RT] TheOne
+Player level: 86
+
+# Cards
+Celestial Touchstone, 21, 4, 871, 1988, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Rejuvenation:180
+Ice Dragon, 18, 6, 770, 1875, tundra, Dodge:45, Clean Sweep, Immunity, Trap:2
+Arctic Overlord, 19, 4, 768, 1805, tundra, Frost Shock:120, Shield of Earth, Resurrection:65, Reflection:120
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Trap:2
+Taiga General, 18, 4, 725, 1965, tundra, Magic Shield:80, Exile, Regeneration:175, Resistance
+Whitewing Pope, 20, 4, 714, 1830, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Trap:2
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, Venom:120
+Astral Sentinel, 19, 4, 678, 1660, forest, Advanced Strike:2, Impede:2, Immunity, Chain Lightning:125
+
+# Runes
+Raised Flag
+Lightning
+Thunder Shield
+Permafrost

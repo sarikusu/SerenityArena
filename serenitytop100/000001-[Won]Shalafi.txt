@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:41:25
+Player name: [Won]Shalafi
+Player level: 94
+
+# Cards
+Tundra Rider, 19, 3, 685, 1780, tundra, Blizzard:160, Mana Corruption:180, Ice Shield:100, Resistance
+Lava Destroyer, 21, 1, 681, 1580, mtn, Guard, Resurrection:60, D_Reanimation, Blizzard:100
+Arctic Cephalid, 19, 4, 920, 1650, tundra, Reflection:210, Dodge:60, Bloodthirsty:70, Trap:2
+Celestial Touchstone, 21, 4, 913, 2044, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Blizzard:100
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Exiled Angel, 20, 4, 760, 1800, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Resistance
+Whitewing Pope, 19, 4, 636, 1740, tundra, Blizzard:160, Reincarnation:1, Ice Shield:150, Chain Lightning:25
+Behemoth, 15, 6, 580, 1852, swamp, Electric Shock:175, Retaliation:160, Immunity, Blizzard:100
+Fire Demon, 17, 6, 830, 1890, mtn, Concentration:120, Laceration, Immunity, Bloodsucker:90
+
+# Runes
+Lightning
+Clear Spring
+Thunder Shield
+Permafrost

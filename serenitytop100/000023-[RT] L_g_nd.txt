@@ -1,0 +1,19 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:43:15
+Player name: [RT] L?g?nd
+Player level: 81
+
+# Cards
+Hephaestus, 19, 4, 745, 1816, mtn, Infiltrator, Firestorm:200, Immunity, Bloodsucker:60
+Hephaestus, 20, 4, 775, 1848, mtn, Infiltrator, Firestorm:200, Immunity, Bloodsucker:80
+Soul Taker, 19, 4, 682, 1870, tundra, Concentration:120, Infiltrator, Immunity, Snipe:210
+Leprechaun, 18, 4, 516, 1080, forest, Regeneration:125, Dodge:60, Reanimation, Resistance
+Arctic Lich, 18, 4, 645, 1720, tundra, Mana Corruption:160, Sacred Flame, Resistance, Reflection:90
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Astral Sentinel, 18, 4, 620, 1600, forest, Advanced Strike:2, Impede:2, Immunity
+Fire Demon, 17, 6, 830, 1890, mtn, Concentration:120, Laceration, Immunity, Bloodsucker:80
+
+# Runes
+Thunder Shield
+Blood Stone
+Permafrost
+Arctic Freeze

@@ -1,0 +1,20 @@
+# EK Battlesim - v0.3.6-SNAPSHOT - Generated RM deck file on 2015-05-27 09:42:55
+Player name: [RT] Billie
+Player level: 82
+
+# Cards
+Lava Destroyer, 20, 1, 615, 1480, mtn, Guard, Resurrection:60, D_Reanimation
+Moss Dragon, 15, 6, 655, 1710, forest, Concentration:120, Parry:160, Immunity
+Celestial Touchstone, 22, 4, 955, 2100, forest, Feast of Blood:160, Dodge:55, Reincarnation:2, Resistance
+Thunder Dragon, 19, 3, 696, 1590, forest, Electric Shock:150, Mana Corruption:160, Resurrection:65, Reflection:120
+Exiled Angel, 17, 4, 610, 1650, forest, Electric Shock:175, QS_Teleportation, Sacred Flame
+Jack Frost, 18, 4, 610, 1610, tundra, Trap:3, Clean Sweep, QS_Destroy
+Exiled Angel, 19, 4, 730, 1770, forest, Electric Shock:175, QS_Teleportation, Sacred Flame, Resistance
+Aranyani, 14, 4, 680, 1710, forest, Magic Shield:80, Healing:250, QS_Teleportation
+Arctic Overlord, 17, 4, 675, 1700, tundra, Frost Shock:120, Shield of Earth, Resurrection:65
+
+# Runes
+Raised Flag
+Lightning
+Thunder Shield
+Permafrost
